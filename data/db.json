@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et consequuntur pariatur rerum culpa perspiciatis iste dolorum debitis voluptates suscipit voluptas nisi aliquam nesciunt voluptatibus, delectus quia! Ipsa, deserunt. Nihil iusto blanditiis quibusdam eveniet facilis, mollitia voluptatem cupiditate tempore alias nesciunt enim reprehenderit quos ducimus saepe minima natus deserunt, magni itaque ea fugit libero, ut aspernatur quas. Nam commodi sit, tempore amet doloremque, accusamus error nobis eos reprehenderit eum doloribus? Quidem maiores ratione sunt necessitatibus neque architecto autem, repellat ullam aliquid animi tempore beatae corporis quas voluptates eum ipsa, quam molestias voluptatem deleniti dicta at exercitationem accusantium! Nihil iusto blanditiis quibusdam eveniet facilis, mollitia voluptatem cupiditate tempore alias nesciunt enim reprehenderit quos ducimus saepe minima natus deserunt, magni itaque ea fugit libero, ut aspernatur quas. Nam commodi sit, tempore amet doloremque, accusamus error nobis eos reprehenderit eum doloribus? Quidem maiores ratione sunt necessitatibus neque architecto autem, repellat ullam aliquid animi tempore beatae corporis quas voluptates eum ipsa, quam molestias voluptatem deleniti dicta at exercitationem accusantium!",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 CSS Tips",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et consequuntur pariatur rerum culpa perspiciatis iste dolorum debitis voluptates suscipit voluptas nisi aliquam nesciunt voluptatibus, delectus quia! Ipsa, deserunt. Nihil iusto blanditiis quibusdam eveniet facilis, mollitia voluptatem cupiditate tempore alias nesciunt enim reprehenderit quos ducimus saepe minima natus deserunt, magni itaque ea fugit libero, ut aspernatur quas. Nam commodi sit, tempore amet doloremque, accusamus error nobis eos reprehenderit eum doloribus? Quidem maiores ratione sunt necessitatibus neque architecto autem, repellat ullam aliquid animi tempore beatae corporis quas voluptates eum ipsa, quam molestias voluptatem deleniti dicta at exercitationem accusantium!",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Basics Vue Tips",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et consequuntur pariatur rerum culpa perspiciatis iste dolorum debitis voluptates suscipit voluptas nisi aliquam nesciunt voluptatibus, delectus quia! Ipsa, deserunt. Nihil iusto blanditiis quibusdam eveniet facilis, mollitia voluptatem cupiditate tempore alias nesciunt enim reprehenderit quos ducimus saepe minima natus deserunt, magni itaque ea fugit libero, ut aspernatur quas. Nam commodi sit, tempore amet doloremque, accusamus error nobis eos reprehenderit eum doloribus? Lorem ipsum dolor sit amet consectetur adipisicing elit. Et consequuntur pariatur rerum culpa perspiciatis iste dolorum debitis voluptates suscipit voluptas nisi aliquam nesciunt voluptatibus, delectus quia! Ipsa, deserunt. Nihil iusto blanditiis quibusdam eveniet facilis, mollitia voluptatem cupiditate tempore alias nesciunt enim reprehenderit quos ducimus saepe minima natus deserunt, magni itaque ea fugit libero, ut aspernatur quas. Nam commodi sit, tempore amet doloremque, accusamus error nobis eos reprehenderit eum doloribus? Quidem maiores ratione sunt necessitatibus neque architecto autem, repellat ullam aliquid animi tempore beatae corporis quas voluptates eum ipsa, quam molestias voluptatem deleniti dicta at exercitationem accusantium!",
+            "tags": [
+                "vue",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
